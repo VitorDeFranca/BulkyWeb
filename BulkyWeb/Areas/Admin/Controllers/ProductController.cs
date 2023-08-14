@@ -11,7 +11,7 @@ using System.Data;
 namespace BulkyWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = SD.Role_Admin)]
+    /*[Authorize(Roles = SD.Role_Admin)]*/
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -141,7 +141,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             _unitOfWork.Product.Remove(productToBeDeleted);
             _unitOfWork.Save();
 
-            return Json(new { success = true, message = "Delete successfull" });
+            return Json(new { success = true, message = "Deleted successfully." });
 
         }
 

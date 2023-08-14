@@ -34,3 +34,15 @@ C:\Vitor\Vitor\Bulky\BulkyWeb\Bulky\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.U
 C:\Vitor\Vitor\Bulky\BulkyWeb\Bulky\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
 C:\Vitor\Vitor\Bulky\BulkyWeb\Bulky\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
 C:\Vitor\Vitor\Bulky\BulkyWeb\Bulky\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Backup\Projetos\BulkyWeb\Bulky\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
